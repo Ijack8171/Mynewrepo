@@ -3,7 +3,6 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
-
 //dev2 added the new code 
 import java.util.Scanner;
 
@@ -27,3 +26,4 @@ public class SumTwoNumbers {
         }
     }
 }
+new code developed by dev2 with out pull the code
